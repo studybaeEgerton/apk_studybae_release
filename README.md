@@ -29,7 +29,7 @@ The latest release of the Studybae APK is available below. Click the link to dow
 | Version | Release Date | Notes                          |
 |---------|--------------|--------------------------------|
 | v1.0.0  | March 15, 2025 | Initial public release         |
-| [Add future versions here] | [Date] | [Notes]                   |
+| [future versions to come] | [Date] | [Notes]                   |
 
 Check the [Releases page](https://github.com/your-username/apk_studybae_release/releases) for the full list of releases and changelogs.
 
@@ -42,7 +42,7 @@ This repository is primarily for distributing the Studybae APK. However, if youâ
 The Studybae APK is distributed under the [insert license, e.g., "MIT License" or "Proprietary License"]. See the [LICENSE](LICENSE) file for details. [Note: If you donâ€™t have a license yet, consider adding one like MIT or Apache 2.0 for open-source projects, or specify proprietary terms.]
 
 ## Contact
-For support or inquiries, reach out to [your email or support link, e.g., support@studybae.com].
+For support or inquiries, reach out to [your email or support link, e.g., support@studybae.code].
 
 ## Disclaimer
 Download and install at your own risk. The maintainers of this repository are not responsible for any damage caused by the use of this software. Always verify the authenticity of the APK before installation.
