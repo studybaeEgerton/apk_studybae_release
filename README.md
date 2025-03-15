@@ -1,4 +1,4 @@
-# apk_studybae_release
+# Studybae Apk Release
 
 Welcome to the official public release repository for the **Studybae APK**! This repository hosts the latest versions of the Studybae Android application for direct download. Say goodbye to download warnings—grab your APK here seamlessly!
 
